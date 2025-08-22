@@ -22,10 +22,8 @@ To create a decentralized data storage infrastructure that maximizes efficiency 
 
 ## Contract Address Details
 *Contract deployment information will be added here*
-- **Testnet**: `[To be provided]`
-- **Mainnet**: `[To be provided]`
-- **Contract Name**: `data-compression`
-- **Version**: `v1.0.0`
+- **Testnet**: `ST1MCGPKGJETBEE99XHFGH1239VJ3XEJFTWW8KPJX.DataCompression`
+- `
 
 ## Core Functions
 
